@@ -20,3 +20,5 @@ I speak fluent English and native Vietnamese
 #### Programming Language and Tool I can use
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinChung41&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+Currently(May 2023) focused on learning Deep Learning and Computer Vison to make a Image, Computer Vision, Pattern Recognition
