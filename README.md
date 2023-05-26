@@ -7,7 +7,7 @@
 #### Programming Language 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinChung41&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm a data science major at [International University(IU) - VNU HCMC]([url](https://hcmiu.edu.vn/)),
+I'm a data science major at [International University(IU) - VNU HCMC](https://hcmiu.edu.vn/),
 
 Here are some ideas to get you started:
 
