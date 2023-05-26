@@ -4,6 +4,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinChung41)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Programming Language 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinChung41&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Wakatime Week Stats
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TinChung41)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
