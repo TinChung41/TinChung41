@@ -13,6 +13,112 @@ https://github.com/triggerdotdev/trigger.dev
 
 Context transfer:
 [context](context.md)
+
+# 30.04.2026
+This is just apps mate and wth is zapier for Dev and is a B2B?
+ tree -L 2 apps                                                      ✔  at 20:32:37  
+apps
+├── coordinator
+│   ├── Containerfile
+│   ├── package.json
+│   ├── README.md
+│   ├── src
+│   └── tsconfig.json
+├── docker-provider
+│   ├── Containerfile
+│   ├── package.json
+│   ├── README.md
+│   ├── src
+│   └── tsconfig.json
+├── kubernetes-provider
+│   ├── Containerfile
+│   ├── package.json
+│   ├── README.md
+│   ├── src
+│   └── tsconfig.json
+├── supervisor
+│   ├── CLAUDE.md
+│   ├── Containerfile
+│   ├── package.json
+│   ├── README.md
+│   ├── src
+│   └── tsconfig.json
+└── webapp
+    ├── app
+    ├── CLAUDE.md
+    ├── evals
+    ├── global.d.ts
+    ├── memory-leak-detector.js
+    ├── package.json
+    ├── postcss.config.js
+    ├── prettier.config.js
+    ├── prisma
+    ├── public
+    ├── README.md
+    ├── remix.config.js
+    ├── remix.env.d.ts
+    ├── reset.d.ts
+    ├── scripts
+    ├── seed-ai-spans.mts
+    ├── seed.mts
+    ├── sentry.server.ts
+    ├── server.ts
+    ├── start.sh
+    ├── tailwind.config.js
+    ├── test
+    ├── tsconfig.check.json
+    ├── tsconfig.json
+    ├── upload-sourcemaps.sh
+    ├── vitest.config.ts
+    └── vitest.e2e.config.ts
+
+16 directories, 38 files
+
+# 02.05.2026
+Failure to follow up working in my day off
+https://aistudio.google.com/u/2/prompts/1C2cAQxhbu3JHYz05KYsW65ayz3VYYL2t
+
+# 03.05.2026
+https://aistudio.google.com/u/2/prompts/1FqqatA16l4dtwk0YRDzY2zpyo1Cy5VsH
+
+Update [context.md](context.md)
+stupid thing, since this docs write on 28.04 we have 90 days since that to achieve this.
+
+New file [SloppyJobsOrganize.md](SloppyJobsOrganize.md)
+
+Why don't I escape the scope of recent COSS? Because I get to hired like a normal Dev apply through their website, which not too bad?
+https://www.youtube.com/watch?v=_7bnpjJB9T0&t=10s
+
+    Direct access to founders: At the Seed stage (2-10 people), you are primarily working with the founders, who are often the ones handling product development and engineering (8:24-9:08). Because the team is so small, the person you are interviewing with—who would be reviewing your technical skills—is frequently one of the founders themselves.
+    Decision-making authority: The video emphasizes that at these early stages, you are treated like a peer and are part of the core decision-making process (18:05-18:14).
+    Series A transition: Even as the company moves to Series A (10-50 people), you are still working closely with a small, high-impact team (1:54-2:06). While mid-level management starts to appear, the culture of direct collaboration remains, and the people interviewing you are still typically the technical leaders or founding team members looking for specific engineering talent (28:13-28:44).
+
+Rescope the search in context.md > if you want to further this path, find of VCs or direct COSS and start filter them out 
+Skip the path of VCs > start up to a diff path at [README.md](./GitHubGraphQLAPI/README.md)
+
+## Should I ask question challegene info from searching like this?
+what I mean
+![alt text](image-2.png)
+looking at OSSC VC, I wonder if the vids of that guide in Aus make like 5 safe SAAS did even have a Aus VC version to quickly check anymore.
+
+## Should I make a quick script to craw text data more efficient for AI to process? This would reduce 1 gap
+
+You can ask any question to make sure we on the same page
+
+# 09.05.2026
+Indentify more gaps
+## Contributor License Agreement (CLA)
+![alt text](image-4.png)
+
+## Business of COSS and Founder Psychology.
+To understand the Business of COSS and Founder Psychology within Working in Public, you should focus primarily on Chapters 3 and 5, which delve into the mental burden and economic realities of maintenance.
+
+[Working in Public (PDF)](./Working%20in%20public_%20the%20making%20and%20maintenance%20of%20open%20source%20--%20Nadia%20Eghbal.pdf)
+
+Check Slop or gem tab
+![alt text](image-5.png)
+
+
 -------
 Path 1: https://aistudio.google.com/u/2/prompts/1Iat_vIwk9Uqrjav2x3Dowcj8r5kC7U3o 
 Here is the raw, transactional open-source playbook. No buzzwords, just the
