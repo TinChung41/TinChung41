@@ -118,6 +118,81 @@ To understand the Business of COSS and Founder Psychology within Working in Publ
 Check Slop or gem tab
 ![alt text](image-5.png)
 
+# 12.05.2026
+19h47 start.
+https://aistudio.google.com/prompts/1XKzN21XjzcplF2TKcigO1CU8_WdJDjrv
+
+runacap.com/ross-index/
+
+# 14.05.2026
+Since you will have full 3 days if you plan this right. It a really good time to go extremely high risk
+Random di bo + random win update ruined me
+
+# 15.05.2026
+Try to be proud and down to earth about your biology limitation
+## AI context
+https://aistudio.google.com/u/2/prompts/1NApTFbpJAIsq5aUdqnOFD84O7cKfmU5p
+
+## AI for ComposioHQ
+https://aistudio.google.com/u/2/prompts/1EXBTgecQqOJond2J4O-jLf96jY-lQGok
+## Business model first glance
+While LLMs (like Claude or GPT-4) are great at thinking, they can't naturally "do" things—they can't send a Slack message, check a Jira ticket, or edit a local file on your computer by themselves. Composio provides the pre-built "hands" (integrations) and the "brain-to-hand" connection (the SDK) so an agent can execute those actions reliably.
+
+
+# 17.05.2026
+As per human limit + emotional being aside.
+
+Another sub-task as you still fresh in this contribute game.
+
+It a good time to see the Power Game being played out.
+
+## AI big picture
+https://aistudio.google.com/u/2/prompts/1_l7oB2m2WbkwNwgKJkCPlq8h31la4ODD?pli=1
+
+# 1 Scaling Labour is not spamable? Since it a high cognitive work?
+VCs scale capital. They can write 100 checks in a year. You are scaling labor. You have 71 days left. If you spread your time across 20 startups doing trivial, low-effort PRs (typo fixes, basic docs), you will never cross the threshold of "reducing their time-to-productivity to zero." You will remain an invisible line item in their contributor graph.
+
+# The list to spam the Power game
+1. The Whale: Composio (ComposioHQ/awesome-claude-skills)
+
+    Profile: San Francisco. $29M Series A (Lightspeed). 49.5K stars.
+
+    The Leverage: Pure integration infrastructure. Their entire product relies on adding more tools/APIs.
+
+    The Risk: Extreme noise. You must pick an incredibly painful, enterprise-grade authentication integration to stand out.
+
+2. The B2B Workspace: OpenWork (different-ai/openwork)
+
+    Profile: San Francisco. Y Combinator (Undisclosed Seed). 12.8K stars.
+
+    The Leverage: Open-source team workspace. They cannot compete with proprietary enterprise tools unless they hook into Slack, Jira, Linear, and internal wikis.
+
+    The Risk: Multiplayer syncing is their core focus; you handle the data ingestion edges.
+
+3. The Infra/Observability Engine: Aden (aden-hive/hive)
+
+    Profile: San Francisco. $3.4M (YC, Magic). 10.0K stars.
+
+    The Leverage: Production AI agent harness. "Production" means it must integrate with enterprise observability (Datadog, Splunk, PagerDuty). Engineers hate writing logging connectors. You do it for them.
+
+4. The Security Hook: Strix (usestrix/strix)
+
+    Profile: San Francisco. Vercel-backed (Undisclosed Seed). 22.8K stars.
+
+    The Leverage: AI app vulnerability scanner. A scanner is useless if it doesn't plug into CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins) or issue trackers to report the bugs.
+
+5. The Autonomous Pentester: Keygraph (KeygraphHQ/shannon)
+
+    Profile: San Francisco. Seed (Depth, Urban Innovation). 34.9K stars.
+
+    The Leverage: AI pentester for web apps/APIs. It needs to ingest API schemas, authenticate against cloud infrastructure (AWS/GCP IAM roles), and bypass WAFs. Build the auth or schema ingestion connectors.
+
+## The system that make doing hard
+
+
+DO NOT TOLD the NEXT AI TO HAVE ANY PERSONA
+It a new day so write an context handover to the part about start cloning these repo down, go on Discord and Github issue track down some issue(I actually never see feature request on github issue but may be I'm not that active I guess)
+and overall what you told me yesterday but I forgot so I and the next AI can be set up for sucess
 
 -------
 Path 1: https://aistudio.google.com/u/2/prompts/1Iat_vIwk9Uqrjav2x3Dowcj8r5kC7U3o 
