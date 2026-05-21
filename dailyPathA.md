@@ -194,7 +194,50 @@ DO NOT TOLD the NEXT AI TO HAVE ANY PERSONA
 It a new day so write an context handover to the part about start cloning these repo down, go on Discord and Github issue track down some issue(I actually never see feature request on github issue but may be I'm not that active I guess)
 and overall what you told me yesterday but I forgot so I and the next AI can be set up for sucess
 
+
+
+# 18.05.2026
+Good job working on your future when you are sick
+
+- [Composio](composio.md) (ComposioHQ/composio) – Integration-heavy AI play.
+- [OpenWork](openwork.md) (different-ai/openwork) – B2B workspace tool hooks.
+- [Aden](aden.md) (aden-hive/hive) – Infrastructure/Observability connectors.
+- [Strix](strix.md) (usestrix/strix) – Security/CI/CD integrations.
+- [Keygraph](keygraph.md) (KeygraphHQ/shannon) – API/Auth schema ingestion.
+
+# 19.05.2026
+what a fucking day, but you made it
+Now is set up for myself to sucess
+Little set back as Ytb short was not blocked and Bi beat > RT
+# 20.05.2026
+Distraction for game, but we still set up for success
+https://aistudio.google.com/prompts/1lcdo-ZxKDjSkHCtVNiLeiUVzpKQbleg0
+
+Hand holding by Scott
+https://www.firsttimersonly.com/
+
+https://github.com/ComposioHQ/composio/issues
+https://github.com/different-ai/openwork/issues
+https://github.com/aden-hive/hive/issues
+https://github.com/usestrix/strix/issues
+https://github.com/KeygraphHQ/shannon/issues
+
+# None outdated resource
+Recommendations - Hey @shanselman, LMK and I'll start PR'ing
+
+    Remove unmaintained https://goodfirstissue.dev/ paragraph.
+    Remove twitter bot first_tmrs_only since it's not updating anymore (no surprise).
+    Pick a couple of testimonial tweets newer than 2015 (let me know if I should look for some)
+    Add a selection of other links to "Read blog posts and guides on how to [contribute to an open source project], then pick one!" para, and update it to mention "If the first few blogs don't make sense, read the next one - there are lots of people out there trying to help newcomers break into open source!"
+    Add a para about good-first-issue, which is also used in a lot of places (albeit a subtly different context)
+    Add links to https://github.com/topics/good-first-issue and a couple of other GitHub places where they've incorporated these kinds of tags into broader GH supported work
+    Add a handful of other more recent "how to get started in OSS" sites, so that people have other content options for guides as well, ones that are vendor-neutral, friendly, and broadly applicable, like
+        https://github.com/readme/guides/first-oss-contribution
+        https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/
+        https://www.eddiehub.org/
+
 -------
+# Pass Prompt
 Path 1: https://aistudio.google.com/u/2/prompts/1Iat_vIwk9Uqrjav2x3Dowcj8r5kC7U3o 
 Here is the raw, transactional open-source playbook. No buzzwords, just the
 actual mechanics of how to use free work to get paid.
