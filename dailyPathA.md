@@ -187,12 +187,7 @@ VCs scale capital. They can write 100 checks in a year. You are scaling labor. Y
 
     The Leverage: AI pentester for web apps/APIs. It needs to ingest API schemas, authenticate against cloud infrastructure (AWS/GCP IAM roles), and bypass WAFs. Build the auth or schema ingestion connectors.
 
-## The system that make doing hard
 
-
-DO NOT TOLD the NEXT AI TO HAVE ANY PERSONA
-It a new day so write an context handover to the part about start cloning these repo down, go on Discord and Github issue track down some issue(I actually never see feature request on github issue but may be I'm not that active I guess)
-and overall what you told me yesterday but I forgot so I and the next AI can be set up for sucess
 
 
 
@@ -209,6 +204,7 @@ Good job working on your future when you are sick
 what a fucking day, but you made it
 Now is set up for myself to sucess
 Little set back as Ytb short was not blocked and Bi beat > RT
+
 # 20.05.2026
 Distraction for game, but we still set up for success
 https://aistudio.google.com/prompts/1lcdo-ZxKDjSkHCtVNiLeiUVzpKQbleg0
@@ -221,6 +217,9 @@ https://github.com/different-ai/openwork/issues
 https://github.com/aden-hive/hive/issues
 https://github.com/usestrix/strix/issues
 https://github.com/KeygraphHQ/shannon/issues
+
+# 21.05.2026
+
 
 # None outdated resource
 Recommendations - Hey @shanselman, LMK and I'll start PR'ing
@@ -236,8 +235,79 @@ Recommendations - Hey @shanselman, LMK and I'll start PR'ing
         https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/
         https://www.eddiehub.org/
 
+# 22.05.2026
+https://github.com/TauricResearch/TradingAgents
+
+random prompt that got me here
+
+
+# 24.05.2026
+Complete all set up 
+
+
+# 26.05.2026
+
+
+
+
+
+
+
+## Strix hacker vunerbility AI contex
+https://aistudio.google.com/u/2/prompts/1LFi2e9zMBRxbhWd4zBbVP-tSYgxWVGCt
+https://aistudio.google.com/u/2/prompts/17MCr--LzER-FYzJIlmhqKYOu05PukcBL
+
+## Openwork aka open source build on AI contex
+NA
+## Hive AI contex
+https://aistudio.google.com/u/2/prompts/1oLsE98HpYsyZDLlW9zo6mRX-atzCnDcl
+AI agent framework
+
+## Composio AI contex
+https://aistudio.google.com/u/2/prompts/1t7rTgF41eXd0RVqix2wZYjL8--M_XYsC
+https://composio.dev/blog/composio-may-2026-security-incident
+
+## Shanon pentestAI contex
+https://aistudio.google.com/prompts/1q0HYOx02hUZBTnyGeA6DuPgBiYdL6ySw
+
+# 27.05.2026
+
+UPDATE ON COMPOSIO (MAY 2026):
+Do not target Composio for PRs right now. They recently suffered a massive security breach resulting in revoked API keys, severe dashboard downtime, and an abrupt forced migration from v1 to v3 APIs that broke enterprise production workflows. Customers are actively angry and churning to competitors like Pipedream. The core maintainers are entirely consumed by disaster recovery, meaning they will not review community contributions, and the codebase architecture is currently unstable. Composio is on a 30-60 day hold. All immediate contribution efforts must pivot to the remaining four targets: OpenWork, Aden, Strix, or Keygraph.
+
+UPDATE ON Shanon/Keygraph (MAY 2026):
+Finding out that a massive, highly hyped project (like one with 43k stars) is actually just a closed shop run by 8 people who block external developers is a cold splash of water. It reveals that "open source" in the VC-backed startup world is often just a marketing strategy to build developer hype and attract investors, rather than a genuine community. Realizing that the ladder you wanted to climb has fake rungs is disappointing.
+
+# 28.05.2026
+sleep at 7pm > working 2:23am
+## Strix hacker vunerbility AI contex
+https://aistudio.google.com/u/2/prompts/1LFi2e9zMBRxbhWd4zBbVP-tSYgxWVGCt
+
+# 31.05.2026
+Looking around of what to do
+
+# 06.06.2026
+Di bo x2 + dam gio
+
+Any way the good news is I have infinite AI usage, the bad news is I have to figure how smart people using them instead of offload thinking to AI which will render you useless. Also today I should clean up LinkedIn for new job test now, it been 6 monts
+
+## The system that make doing hard
+
+
+DO NOT TOLD the NEXT AI TO HAVE ANY PERSONA
+KEEP the reponse short I don't want to waste token on overthink slop
+
+It a new day so write an context handover to the part about start cloning these repo down, go on Discord and Github issue track down some issue(I actually never see feature request on github issue but may be I'm not that active I guess)
+and overall what you told me yesterday but I forgot so I and the next AI can be set up for sucess
+
+
+AI contex
 -------
-# Pass Prompt
+
+# I'm telling myself to look at this investing in the next quarter as the exp is to wait for more time to do a fullfilling proud job that half ass it
+https://github.com/TauricResearch/TradingAgents/blob/main/README.md
+
+# Past Prompt
 Path 1: https://aistudio.google.com/u/2/prompts/1Iat_vIwk9Uqrjav2x3Dowcj8r5kC7U3o 
 Here is the raw, transactional open-source playbook. No buzzwords, just the
 actual mechanics of how to use free work to get paid.
